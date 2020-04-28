@@ -1,0 +1,22 @@
+{
+  "name": "MYJHUIAlertView",
+  "version": "0.1.0",
+  "summary": "A short description of MYJHUIAlertView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/GEYOU/MYJHUIAlertView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GEYOU": "2387034197@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/GEYOU/MYJHUIAlertView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MYJHUIAlertView/Classes/**/*"
+}

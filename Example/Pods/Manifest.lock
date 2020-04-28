@@ -1,0 +1,16 @@
+PODS:
+  - MYJHUIAlertView (0.1.0)
+
+DEPENDENCIES:
+  - MYJHUIAlertView (from `../`)
+
+EXTERNAL SOURCES:
+  MYJHUIAlertView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MYJHUIAlertView: 4d2fd597838f43c30635e937555f4ce52715691b
+
+PODFILE CHECKSUM: 3d0dea200bdacd314b34444e9d3f64a8c09ece3e
+
+COCOAPODS: 1.9.1

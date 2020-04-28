@@ -1,0 +1,6 @@
+framework module Pods_MYJHUIAlertView_Example {
+  umbrella header "Pods-MYJHUIAlertView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
