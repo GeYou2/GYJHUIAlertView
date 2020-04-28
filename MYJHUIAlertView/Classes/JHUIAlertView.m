@@ -507,7 +507,7 @@
         _contentViewColor =[UIColor whiteColor];
         _dismissWhenTapOut = YES;
         _buttonHeight = 40;
-        _alertHeight = SCREEN_HEIGHT*3/5;
+        _alertHeight = size.height*3/5;
     }
     return self;
 }
