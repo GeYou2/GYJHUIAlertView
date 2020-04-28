@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MYJHUIAlertView
 
 [![CI Status](https://img.shields.io/travis/GEYOU/MYJHUIAlertView.svg?style=flat)](https://travis-ci.org/GEYOU/MYJHUIAlertView)
@@ -27,3 +28,7 @@ GEYOU, 2387034197@qq.com
 ## License
 
 MYJHUIAlertView is available under the MIT license. See the LICENSE file for more info.
+=======
+# GYJHUIAlertView
+自定义弹框
+>>>>>>> fbf127316f55404bb9bc25e4c215a2d3dbe5ab10
