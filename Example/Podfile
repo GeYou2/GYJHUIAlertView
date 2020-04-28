@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MYJHUIAlertView_Example' do
+  pod 'MYJHUIAlertView', :path => '../'
+
+  target 'MYJHUIAlertView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
